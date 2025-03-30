@@ -17,7 +17,7 @@ const Footer = () => {
 
           <div className="flex space-x-6">
             <motion.a
-              href="https://github.com/NiteshJaiswal"
+              href="https://github.com/nitesh18400"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.1 }}
@@ -29,7 +29,7 @@ const Footer = () => {
               </svg>
             </motion.a>
             <motion.a
-              href="https://linkedin.com/in/NiteshJaiswal"
+              href="https://www.linkedin.com/in/nitesh-jaiswal-98246b188/"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.1 }}
@@ -41,7 +41,7 @@ const Footer = () => {
               </svg>
             </motion.a>
             <motion.a
-              href="https://leetcode.com/NiteshJaiswal"
+              href="https://leetcode.com/u/nitesh18400/"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.1 }}

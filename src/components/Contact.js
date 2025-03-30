@@ -98,7 +98,7 @@ const Contact = () => {
               <h4 className="text-lg font-semibold text-[#ccd6f6] mb-4">Social Links</h4>
               <div className="flex space-x-6">
                 <motion.a
-                  href="https://github.com/yourusername"
+                  href="https://github.com/nitesh18400"
                   target="_blank"
                   rel="noopener noreferrer"
                   whileHover={{ scale: 1.1 }}
@@ -110,7 +110,7 @@ const Contact = () => {
                   </svg>
                 </motion.a>
                 <motion.a
-                  href="https://linkedin.com/in/yourusername"
+                  href="https://www.linkedin.com/in/nitesh-jaiswal-98246b188/"
                   target="_blank"
                   rel="noopener noreferrer"
                   whileHover={{ scale: 1.1 }}
@@ -122,7 +122,7 @@ const Contact = () => {
                   </svg>
                 </motion.a>
                 <motion.a
-                  href="https://leetcode.com/yourusername"
+                  href="https://leetcode.com/nitesh18400/"
                   target="_blank"
                   rel="noopener noreferrer"
                   whileHover={{ scale: 1.1 }}

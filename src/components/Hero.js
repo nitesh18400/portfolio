@@ -75,7 +75,7 @@ const Hero = () => {
           className="mt-12 flex justify-center space-x-6"
         >
           <a
-            href="https://github.com/NiteshJaiswal"
+            href="https://github.com/nitesh18400"
             target="_blank"
             rel="noopener noreferrer"
             className="text-textSecondary hover:text-secondary transition-colors duration-300"
@@ -85,7 +85,7 @@ const Hero = () => {
             </svg>
           </a>
           <a
-            href="https://linkedin.com/in/NiteshJaiswal"
+            href="https://www.linkedin.com/in/nitesh-jaiswal-98246b188/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-textSecondary hover:text-secondary transition-colors duration-300"
@@ -95,7 +95,7 @@ const Hero = () => {
             </svg>
           </a>
           <a
-            href="https://leetcode.com/NiteshJaiswal"
+            href="https://leetcode.com/u/nitesh18400/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-textSecondary hover:text-secondary transition-colors duration-300"
